@@ -7,9 +7,8 @@ Este é um site moderno e responsivo para uma lanchonete ou restaurante fast-foo
 O site inclui:
 
 - **Cabeçalho fixo** com logotipo e menu responsivo.
-- Seção de **depoimentos de clientes** (“O que os clientes falam sobre nós”).
+- Seção de **depoimentos de clientes** .
 - Design limpo, moderno e com paleta de cores suaves.
-- Layout adaptado para **dispositivos móveis**.
 
 ## 🚀 Funcionalidades
 
