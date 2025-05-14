@@ -21,9 +21,8 @@ O site inclui:
 ## 🧱 Tecnologias Utilizadas
 
 - HTML5
-- CSS3 (com uso de Flexbox/Grid)
-- JavaScript (opcional, para animações ou menu responsivo)
-- Fonte personalizada e ícones (como o ícone de hambúrguer)
+- CSS3 
+- JavaScript
 
 ## ⚙️ Como usar
 
